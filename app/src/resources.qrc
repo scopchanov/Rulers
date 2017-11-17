@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/pix">
+        <file>images/icons/hand-closed.png</file>
+        <file>images/icons/hand-open.png</file>
+        <file>images/bckg/grid.png</file>
+        <file>images/bckg/hrule.png</file>
+        <file>images/bckg/vrule.png</file>
+    </qresource>
+    <qresource prefix="/doc"/>
+</RCC>
